@@ -61,7 +61,7 @@ export default function Books() {
                       <SelectValue placeholder="All Genres" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="">All Genres</SelectItem>
+                      <SelectItem value="all">All Genres</SelectItem>
                       <SelectItem value="Fiction">Fiction</SelectItem>
                       <SelectItem value="Non-Fiction">Non-Fiction</SelectItem>
                       <SelectItem value="Mystery">Mystery</SelectItem>
